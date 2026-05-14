@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.M365Now" parent="android:style/Theme.Material.Light.NoActionBar" />
+</resources>
